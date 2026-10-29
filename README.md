@@ -59,7 +59,6 @@ Password semua akun: `password`
 | Staf boarding | `staff@catcare.com` |
 | Groomer | `groomer@catcare.com` |
 | Kasir | `cashier@catcare.com` |
-| Pemilik hewan | `08129981229` |
 
 ## Tes
 
